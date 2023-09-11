@@ -1,0 +1,3 @@
+how to make a simple music app
+* data :title current song
+	songs is array about info song
